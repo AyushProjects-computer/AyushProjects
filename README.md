@@ -1,2 +1,1 @@
-# AyushProjects
-THIS IS MY FIRST GIT REPOSITORY
+Screen time dashboard
